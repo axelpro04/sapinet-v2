@@ -1,0 +1,1122 @@
+/* screen - accueil */
+
+.accueil {
+  background-color: var(--white);
+  height: 5180px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.accueil .datacenter-olek-erstock-684x513-VrjPOw {
+  background-color: transparent;
+  height: 1557px;
+  left: -78px;
+  object-fit: cover;
+  position: absolute;
+  top: -141px;
+  width: 2076px;
+}
+
+.accueil .rectangle-1-VrjPOw {
+  background-color: var(--black);
+  border: 1px solid var(--dove-gray);
+  height: 1132px;
+  left: -15px;
+  opacity: 0.49;
+  position: absolute;
+  top: 0px;
+  width: 1997px;
+}
+
+.accueil .rectangle-2-VrjPOw {
+  background-color: var(--black);
+  height: 276px;
+  left: 10px;
+  opacity: 0.32;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.accueil .rectangle-3-VrjPOw {
+  background-color: var(--jade);
+  border-radius: 23px;
+  box-shadow: 5px 3px 0px #00000029;
+  height: 119px;
+  left: 737px;
+  pointer-events: auto;
+  position: absolute;
+  top: 858px;
+  transition: all 0.2s ease;
+  width: 526px;
+}
+
+.accueil .rectangle-3-VrjPOw:hover {
+  transform: translate(0, -5px);
+}
+
+.accueil .pngtree-vector-ng-image516434-VrjPOw {
+  background-color: transparent;
+  height: 82px;
+  left: 793px;
+  object-fit: cover;
+  position: absolute;
+  top: 878px;
+  width: 82px;
+}
+
+.accueil .ellipse-1-VrjPOw {
+  background-color: transparent;
+  border: 4px solid var(--green-haze);
+  border-radius: 44.5px;
+  height: 89px;
+  left: 788px;
+  position: absolute;
+  top: 873px;
+  width: 89px;
+}
+
+.accueil .en-savoir-plus-VrjPOw {
+  background-color: transparent;
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-segoeui-bold);
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 905px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 892px;
+  transition: all 0.2s ease;
+  width: 427px;
+}
+
+.accueil .en-savoir-plus-VrjPOw:hover {
+  color: #ABE188
+}
+
+.accueil .sans-titre-1-VrjPOw {
+  background-color: transparent;
+  height: 145px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 145px;
+}
+
+.accueil .ellipse-2-VrjPOw {
+  background-color: transparent;
+  border-radius: 95px;
+  height: 190px;
+  left: 85px;
+  position: absolute;
+  top: 43px;
+  width: 190px;
+}
+
+.accueil .sapinet-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 232px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 396px;
+}
+
+.accueil .sapinet-VrjPOw:hover {
+  color: #ABE188
+}
+
+.accueil .vos-projets-a-3-mois-seulement-VrjPOw {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-segoe_ui);
+  font-size: 60px;
+  font-weight: 400;
+  height: auto;
+  left: 270px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: center;
+  top: 514px;
+  width: 680px;
+}
+
+.accueil .span0-ttxhWD {
+  font-family: var(--font-family-segoeui-regular);
+  font-style: normal;
+}
+
+.accueil .span1-ttxhWD {
+  color: var(--jade);
+  font-family: var(--font-family-segoeui-semibold);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.accueil .span2-ttxhWD {
+  font-family: var(--font-family-segoeui-regular);
+  font-style: normal;
+}
+
+.accueil .ellipse-3-VrjPOw {
+  background-color: var(--jade);
+  border-radius: 49px;
+  height: 98px;
+  left: 1531px;
+  position: absolute;
+  top: 12px;
+  width: 98px;
+}
+
+.accueil .ellipse-4-VrjPOw {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 30px;
+  left: 1565px;
+  position: absolute;
+  top: 27px;
+  width: 30px;
+}
+
+.accueil .rectangle-4-VrjPOw {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 27px;
+  left: 1558px;
+  position: absolute;
+  top: 67px;
+  width: 45px;
+}
+
+.accueil .espace-client-VrjPOw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1640px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  transition: all 0.2s ease;
+  width: 218px;
+}
+
+.accueil .espace-client-VrjPOw:hover {
+  color: #ABE188
+}
+
+.accueil .web-VrjPOw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 608px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 223px;
+}
+
+.accueil .web-VrjPOw:hover {
+  color: #ABE188
+}
+
+.accueil .ligne-1-VrjPOw {
+  background-color: transparent;
+  height: 4px;
+  left: 1624px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 237px;
+}
+
+.accueil .ligne-4-VrjPOw {
+  background-color: transparent;
+  height: 5px;
+  left: 711px;
+  object-fit: cover;
+  position: absolute;
+  top: 594px;
+  width: 225px;
+}
+
+.accueil .rectangle-11-VrjPOw {
+  background-color: var(--outer-space);
+  height: 4105px;
+  left: 1px;
+  position: absolute;
+  top: 1075px;
+  width: 1920px;
+}
+
+.accueil .pourquoi-nous-choisir-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 701px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 1219px;
+  width: 601px;
+}
+
+.accueil .span0-sby9wW {
+}
+
+.accueil .span1-sby9wW {
+}
+
+.accueil .nous-vous-propo-ela-prix-rduits-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 317px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: center;
+  top: 1406px;
+  width: 1353px;
+}
+
+.accueil .span0-2XZv9m {
+}
+
+.accueil .span1-2XZv9m {
+}
+
+.accueil .ligne-5-VrjPOw {
+  background-color: transparent;
+  height: 4px;
+  left: 1078px;
+  object-fit: cover;
+  position: absolute;
+  top: 1277px;
+  width: 200px;
+}
+
+.accueil .ligne-6-VrjPOw {
+  background-color: transparent;
+  height: 5px;
+  left: 864px;
+  object-fit: cover;
+  position: absolute;
+  top: 1530px;
+  width: 253px;
+}
+
+.accueil .rectangle-12-VrjPOw {
+  background-color: var(--white-lilac);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 617px;
+  left: 317px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1654px;
+  transition: all 0.2s ease;
+  width: 611px;
+}
+
+.accueil .rectangle-12-VrjPOw:hover {
+  transform: translate(0, -5px);
+}
+
+.accueil .rectangle-13-VrjPOw {
+  background-color: var(--white-lilac);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 617px;
+  left: 1082px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1654px;
+  transition: all 0.2s ease;
+  width: 611px;
+}
+
+.accueil .rectangle-13-VrjPOw:hover {
+  transform: translate(0, -5px);
+}
+
+.accueil .rectangle-14-VrjPOw {
+  background-color: var(--white-lilac);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 617px;
+  left: 1082px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2425px;
+  transition: all 0.2s ease;
+  width: 611px;
+}
+
+.accueil .rectangle-14-VrjPOw:hover {
+  transform: translate(0, -5px);
+}
+
+.accueil .rectangle-15-VrjPOw {
+  background-color: var(--white-lilac);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 617px;
+  left: 317px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2425px;
+  transition: all 0.2s ease;
+  width: 611px;
+}
+
+.accueil .rectangle-15-VrjPOw:hover {
+  transform: translate(0, -5px);
+}
+
+.accueil .x1-VrjPOw {
+  background-color: transparent;
+  height: 262px;
+  left: 476px;
+  object-fit: cover;
+  position: absolute;
+  top: 1653px;
+  width: 266px;
+}
+
+.accueil .x3-VrjPOw {
+  background-color: transparent;
+  height: 256px;
+  left: 464px;
+  object-fit: cover;
+  position: absolute;
+  top: 2456px;
+  width: 317px;
+}
+
+.accueil .x2-VrjPOw {
+  background-color: transparent;
+  height: 296px;
+  left: 1246px;
+  object-fit: cover;
+  position: absolute;
+  top: 1653px;
+  width: 350px;
+}
+
+.accueil .x4-VrjPOw {
+  background-color: transparent;
+  height: 255px;
+  left: 1275px;
+  object-fit: cover;
+  position: absolute;
+  top: 2431px;
+  width: 287px;
+}
+
+.accueil .rseau-indpendant-as39421-VrjPOw {
+  background-color: transparent;
+  height: 302px;
+  left: 385px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 1926px;
+  width: 526px;
+}
+
+.accueil .support-ouvert-247365-VrjPOw {
+  background-color: transparent;
+  height: 302px;
+  left: 1170px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 1926px;
+  width: 545px;
+}
+
+.accueil .protection-anti-d-do-s-200-gbps-VrjPOw {
+  background-color: transparent;
+  height: 302px;
+  left: 385px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 2695px;
+  width: 495px;
+}
+
+.accueil .serveurs-de-classe-datacenter-VrjPOw {
+  background-color: transparent;
+  height: 302px;
+  left: 1179px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 2695px;
+  width: 426px;
+}
+
+.accueil .x11-VrjPOw {
+  background-color: transparent;
+  border-radius: 43px;
+  height: 298px;
+  left: 652px;
+  object-fit: cover;
+  position: absolute;
+  top: 3374px;
+  width: 452px;
+}
+
+.accueil .x22-VrjPOw {
+  background-color: transparent;
+  border-radius: 40px;
+  height: 298px;
+  left: 657px;
+  object-fit: cover;
+  position: absolute;
+  top: 3713px;
+  width: 447px;
+}
+
+.accueil .x122-VrjPOw {
+  background-color: transparent;
+  border-radius: 53px;
+  height: 777px;
+  left: 88px;
+  object-fit: cover;
+  position: absolute;
+  top: 3311px;
+  width: 518px;
+}
+
+.accueil .devenons-acteur-tre-prsence-web-VrjPOw {
+  background-color: transparent;
+  color: var(--jade);
+  font-family: var(--font-family-segoe_ui);
+  font-size: 60px;
+  font-weight: 700;
+  height: 478px;
+  left: 1150px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 3300px;
+  width: 741px;
+}
+
+.accueil .span0-Ppb00i {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-bold);
+  font-style: normal;
+}
+
+.accueil .span1-Ppb00i {
+  font-family: var(--font-family-segoeui-bold);
+  font-style: normal;
+}
+
+.accueil .ligne-7-VrjPOw {
+  background-color: transparent;
+  height: 5px;
+  left: 1422px;
+  object-fit: cover;
+  position: absolute;
+  top: 3460px;
+  width: 113px;
+}
+
+.accueil .fond-en-2017-sa-s-en-datacenter-VrjPOw {
+  background-color: transparent;
+  color: var(--jade);
+  font-family: var(--font-family-segoe_ui);
+  font-size: var(--font-size-l);
+  font-weight: 600;
+  height: 302px;
+  left: 1150px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: left;
+  top: 3512px;
+  width: 772px;
+}
+
+.accueil .span0-tlpenY {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-regular);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.accueil .span1-tlpenY {
+  font-family: var(--font-family-segoeui-semibold);
+  font-style: normal;
+}
+
+.accueil .span2-tlpenY {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-semibold);
+  font-style: normal;
+}
+
+.accueil .span3-tlpenY {
+  font-family: var(--font-family-segoeui-semibold);
+  font-style: normal;
+}
+
+.accueil .rectangle-16-VrjPOw {
+  background-color: var(--white-lilac);
+  border-radius: 31px;
+  height: 248px;
+  left: 1150px;
+  pointer-events: auto;
+  position: absolute;
+  top: 3746px;
+  transition: all 0.2s ease;
+  width: 323px;
+}
+
+.accueil .rectangle-16-VrjPOw:hover {
+  transform: rotate(15deg);
+}
+
+.accueil .rectangle-17-VrjPOw {
+  background-color: var(--white-lilac);
+  border-radius: 31px;
+  height: 248px;
+  left: 1523px;
+  pointer-events: auto;
+  position: absolute;
+  top: 3746px;
+  transition: all 0.2s ease;
+  width: 323px;
+}
+
+.accueil .rectangle-17-VrjPOw:hover {
+  transform: rotate(15deg);
+}
+
+.accueil .utilisateursinscrits-VrjPOw {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: 302px;
+  left: 1195px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 3861px;
+  width: 302px;
+}
+
+.accueil .x600-VrjPOw {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  height: 302px;
+  left: 1195px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 3776px;
+  width: 302px;
+}
+
+.accueil .x300-VrjPOw {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+  height: 302px;
+  left: 1566px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 3776px;
+  width: 302px;
+}
+
+.accueil .serveurs-virtuels-VrjPOw {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: 302px;
+  left: 1566px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 3861px;
+  width: 302px;
+}
+
+.accueil .ligne-8-VrjPOw {
+  background-color: transparent;
+  height: 5px;
+  left: 1518px;
+  object-fit: cover;
+  position: absolute;
+  top: 3716px;
+  width: 258px;
+}
+
+.accueil .dcouvrez-nos-so-ons-dhbergement-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 471px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 4278px;
+  width: 981px;
+}
+
+.accueil .span0-x7fP39 {
+}
+
+.accueil .span1-x7fP39 {
+}
+
+.accueil .ligne-9-VrjPOw {
+  background-color: transparent;
+  height: 4px;
+  left: 985px;
+  object-fit: cover;
+  position: absolute;
+  top: 4345px;
+  width: 522px;
+}
+
+.accueil .choisissez-la-s-nvient-le-mieux-VrjPOw {
+  background-color: transparent;
+  color: var(--jade);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  height: 302px;
+  left: 321px;
+  letter-spacing: 0.00px;
+  line-height: 60px;
+  position: absolute;
+  text-align: left;
+  top: 4396px;
+  width: 1518px;
+}
+
+.accueil .rectangle-18-VrjPOw {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 283px;
+  left: 88px;
+  pointer-events: auto;
+  position: absolute;
+  top: 4563px;
+  transition: all 0.2s ease;
+  width: 518px;
+}
+
+.accueil .rectangle-18-VrjPOw:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.accueil .rectangle-19-VrjPOw {
+  background-color: var(--white);
+  border-radius: 45px;
+  height: 283px;
+  left: 701px;
+  position: absolute;
+  top: 4563px;
+  width: 518px;
+}
+
+.accueil .rectangle-21-VrjPOw {
+  background-color: var(--pickled-bluewood);
+  border-radius: 7px;
+  height: 52px;
+  left: 138px;
+  pointer-events: auto;
+  position: absolute;
+  top: 4600px;
+  transition: all 0.2s ease;
+  width: 177px;
+}
+
+.accueil .rectangle-21-VrjPOw:hover {
+  transform: scale(1.1);
+}
+
+.accueil .univers-web-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 166px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 4613px;
+  width: 168px;
+}
+
+.accueil .rectangle-22-VrjPOw {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 283px;
+  left: 701px;
+  pointer-events: auto;
+  position: absolute;
+  top: 4563px;
+  transition: all 0.2s ease;
+  width: 518px;
+}
+
+.accueil .rectangle-22-VrjPOw:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.accueil .rectangle-23-VrjPOw {
+  background-color: var(--niagara);
+  border-radius: 9px;
+  height: 52px;
+  left: 751px;
+  pointer-events: auto;
+  position: absolute;
+  top: 4600px;
+  transition: all 0.2s ease;
+  width: 174px;
+}
+
+.accueil .rectangle-23-VrjPOw:hover {
+  transform: scale(1.1);
+}
+
+.accueil .univers-vps-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 779px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 4612px;
+  width: 134px;
+}
+
+.accueil .rectangle-24-VrjPOw {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 283px;
+  left: 1314px;
+  pointer-events: auto;
+  position: absolute;
+  top: 4563px;
+  transition: all 0.2s ease;
+  width: 518px;
+}
+
+.accueil .rectangle-24-VrjPOw:hover {
+  box-shadow: 0px 0px 10px 2px rgba(0,0,0,0.2);
+}
+
+.accueil .rectangle-25-VrjPOw {
+  background-color: var(--jade);
+  border-radius: 11px;
+  height: 52px;
+  left: 1364px;
+  pointer-events: auto;
+  position: absolute;
+  top: 4600px;
+  transition: all 0.2s ease;
+  width: 241px;
+}
+
+.accueil .rectangle-25-VrjPOw:hover {
+  transform: scale(1.1);
+}
+
+.accueil .univers-datacenter-VrjPOw {
+  background-color: transparent;
+  height: auto;
+  left: 1377px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 4612px;
+  width: 239px;
+}
+
+.accueil .hbergement-de-s-voir-nos-offres-VrjPOw {
+  background-color: transparent;
+  height: 302px;
+  left: 110px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 4666px;
+  width: 535px;
+}
+
+.accueil .span0-ikHZBj {
+}
+
+.accueil .span1-ikHZBj {
+}
+
+.accueil .span2-ikHZBj {
+}
+
+.accueil .location-de-ser-voir-nos-offres-VrjPOw {
+  background-color: transparent;
+  height: 302px;
+  left: 726px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 4666px;
+  width: 535px;
+}
+
+.accueil .span0-iS83qZ {
+}
+
+.accueil .span1-iS83qZ {
+}
+
+.accueil .span2-iS83qZ {
+}
+
+.accueil .dcouvrez-nos-se-voir-nos-offres-VrjPOw {
+  background-color: transparent;
+  height: 302px;
+  left: 1339px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 4666px;
+  width: 535px;
+}
+
+.accueil .span0-sOUNEA {
+}
+
+.accueil .span1-sOUNEA {
+}
+
+.accueil .span2-sOUNEA {
+}
+
+.accueil .rectangle-26-VrjPOw {
+  background-color: var(--pickled-bluewood);
+  height: 156px;
+  left: 0px;
+  position: absolute;
+  top: 5024px;
+  width: 1920px;
+}
+
+.accueil .x2021-sapinet-16-mentions-lgales-VrjPOw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 302px;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 5052px;
+  transition: all 0.2s ease;
+  width: 1091px;
+}
+
+.accueil .x2021-sapinet-16-mentions-lgales-VrjPOw:hover {
+  color: #ABE188
+}
+
+.accueil .facebook-VrjPOw {
+  background-color: transparent;
+  height: 52px;
+  left: 1485px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 5072px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.accueil .facebook-VrjPOw:hover {
+  background-color: #ABE188
+}
+
+.accueil .twitter-VrjPOw {
+  background-color: transparent;
+  height: 52px;
+  left: 1583px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 5072px;
+  transition: all 0.2s ease;
+  width: 53px;
+}
+
+.accueil .twitter-VrjPOw:hover {
+  background-color: #ABE188
+}
+
+.accueil .linkedin-VrjPOw {
+  background-color: transparent;
+  height: 52px;
+  left: 1682px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 5072px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.accueil .linkedin-VrjPOw:hover {
+  background-color: #ABE188
+}
+
+.accueil .discorde-VrjPOw {
+  background-color: transparent;
+  height: 57px;
+  left: 1780px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 5075px;
+  transition: all 0.2s ease;
+  width: 57px;
+}
+
+.accueil .discorde-VrjPOw:hover {
+  background-color: #ABE188
+}
+
+.accueil .rectangle-28-VrjPOw {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1898px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.accueil .rectangle-29-VrjPOw {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1875px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.accueil .vps-VrjPOw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 783px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 189px;
+}
+
+.accueil .vps-VrjPOw:hover {
+  color: #ABE188
+}
+
+.accueil .datacenter-VrjPOw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 977px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 227px;
+}
+
+.accueil .datacenter-VrjPOw:hover {
+  color: #ABE188
+}
+
+.accueil .a-propos-VrjPOw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1235px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 227px;
+}
+
+.accueil .a-propos-VrjPOw:hover {
+  color: #ABE188
+}

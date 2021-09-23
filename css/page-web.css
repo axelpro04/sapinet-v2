@@ -1,0 +1,862 @@
+/* screen - page-web */
+
+.page-web {
+  background-color: var(--white);
+  height: 3397px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.page-web .rectangle-11-zUHXxW {
+  background-color: var(--outer-space);
+  height: 3301px;
+  left: 0px;
+  position: fixed;
+  top: -48px;
+  width: 1920px;
+}
+
+.page-web .groupe-dfilant-2-zUHXxW::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.page-web .groupe-dfilant-2-zUHXxW {
+  background-color: transparent;
+  height: 276px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: scroll;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-web .datacenter-olek-erstock-684x513-TmejKY {
+  background-color: transparent;
+  height: 1557px;
+  left: -78px;
+  object-fit: cover;
+  position: absolute;
+  top: -141px;
+  width: 2076px;
+}
+
+.page-web .rectangle-2-zUHXxW {
+  background-color: var(--black);
+  height: 276px;
+  left: 0px;
+  opacity: 0.57;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-web .sans-titre-1-zUHXxW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 145px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 145px;
+}
+
+.page-web .ellipse-2-zUHXxW {
+  background-color: transparent;
+  border-radius: 95px;
+  height: 190px;
+  left: 85px;
+  position: absolute;
+  top: 43px;
+  width: 190px;
+}
+
+.page-web .sapinet-zUHXxW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 232px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 396px;
+}
+
+.page-web .sapinet-zUHXxW:hover {
+  color: #ABE188
+}
+
+.page-web .ellipse-3-zUHXxW {
+  background-color: var(--jade);
+  border-radius: 49px;
+  cursor: pointer;
+  height: 98px;
+  left: 1531px;
+  position: absolute;
+  top: 12px;
+  width: 98px;
+}
+
+.page-web .ellipse-4-zUHXxW {
+  background-color: var(--white);
+  border-radius: 15px;
+  cursor: pointer;
+  height: 30px;
+  left: 1565px;
+  position: absolute;
+  top: 27px;
+  width: 30px;
+}
+
+.page-web .rectangle-4-zUHXxW {
+  background-color: var(--white);
+  border-radius: 8px;
+  cursor: pointer;
+  height: 27px;
+  left: 1558px;
+  position: absolute;
+  top: 67px;
+  width: 45px;
+}
+
+.page-web .espace-client-zUHXxW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1640px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  transition: all 0.2s ease;
+  width: 218px;
+}
+
+.page-web .espace-client-zUHXxW:hover {
+  color: #ABE188
+}
+
+.page-web .ligne-1-zUHXxW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 4px;
+  left: 1624px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 237px;
+}
+
+.page-web .ligne-3-zUHXxW {
+  background-color: transparent;
+  height: 4px;
+  left: 688px;
+  object-fit: cover;
+  position: absolute;
+  top: 181px;
+  width: 65px;
+}
+
+.page-web .rectangle-12-zUHXxW {
+  background-color: var(--white);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 790px;
+  left: 267px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1273px;
+  transition: all 0.2s ease;
+  width: 1444px;
+}
+
+.page-web .rectangle-12-zUHXxW:hover {
+  transform: translate(0, -5px);box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.page-web .rectangle-14-zUHXxW {
+  background-color: var(--white-lilac);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 637px;
+  left: -37px;
+  position: absolute;
+  top: 2323px;
+  width: 2092px;
+}
+
+.page-web .rectangle-18-zUHXxW {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 330px;
+  left: 85px;
+  pointer-events: auto;
+  position: absolute;
+  top: 679px;
+  transition: all 0.2s ease;
+  width: 518px;
+}
+
+.page-web .rectangle-18-zUHXxW:hover {
+  transform: translate(-5px, 0);
+}
+
+.page-web .rectangle-19-zUHXxW {
+  background-color: var(--white);
+  border-radius: 45px;
+  height: 283px;
+  left: 698px;
+  position: absolute;
+  top: 679px;
+  width: 518px;
+}
+
+.page-web .rectangle-21-zUHXxW {
+  background-color: var(--pickled-bluewood);
+  border-radius: 7px;
+  height: 52px;
+  left: 135px;
+  pointer-events: auto;
+  position: absolute;
+  top: 716px;
+  transition: all 0.2s ease;
+  width: 243px;
+}
+
+.page-web .rectangle-21-zUHXxW:hover {
+  transform: scale(1.1);
+}
+
+.page-web .hebergement-web-zUHXxW {
+  background-color: transparent;
+  height: auto;
+  left: 163px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 729px;
+  transition: all 0.2s ease;
+  width: 217px;
+}
+
+.page-web .hebergement-web-zUHXxW:hover {
+  transform: scale(1.1);
+}
+
+.page-web .rectangle-22-zUHXxW {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 330px;
+  left: 698px;
+  pointer-events: auto;
+  position: absolute;
+  top: 679px;
+  transition: all 0.2s ease;
+  width: 518px;
+}
+
+.page-web .rectangle-22-zUHXxW:hover {
+  transform: translate(0, -5px);
+}
+
+.page-web .rectangle-23-zUHXxW {
+  background-color: var(--niagara);
+  border-radius: 9px;
+  height: 52px;
+  left: 748px;
+  pointer-events: auto;
+  position: absolute;
+  top: 716px;
+  transition: all 0.2s ease;
+  width: 232px;
+}
+
+.page-web .rectangle-23-zUHXxW:hover {
+  transform: scale(1.1);
+}
+
+.page-web .nom-de-domaine-zUHXxW {
+  background-color: transparent;
+  height: auto;
+  left: 776px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 728px;
+  transition: all 0.2s ease;
+  width: 191px;
+}
+
+.page-web .nom-de-domaine-zUHXxW:hover {
+  transform: scale(1.1);
+}
+
+.page-web .rectangle-24-zUHXxW {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 330px;
+  left: 1311px;
+  pointer-events: auto;
+  position: absolute;
+  top: 679px;
+  transition: all 0.2s ease;
+  width: 518px;
+}
+
+.page-web .rectangle-24-zUHXxW:hover {
+  transform: translate(5px, 0);
+}
+
+.page-web .rectangle-25-zUHXxW {
+  background-color: var(--jade);
+  border-radius: 11px;
+  height: 52px;
+  left: 1361px;
+  pointer-events: auto;
+  position: absolute;
+  top: 716px;
+  transition: all 0.2s ease;
+  width: 254px;
+}
+
+.page-web .rectangle-25-zUHXxW:hover {
+  transform: scale(1.1);
+}
+
+.page-web .email-professionnel-zUHXxW {
+  background-color: transparent;
+  height: auto;
+  left: 1374px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 728px;
+  transition: all 0.2s ease;
+  width: 239px;
+}
+
+.page-web .email-professionnel-zUHXxW:hover {
+  transform: scale(1.1);
+}
+
+.page-web .solution-dhberg-voir-nos-offres-zUHXxW {
+  background-color: transparent;
+  height: 302px;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 782px;
+  width: 535px;
+}
+
+.page-web .span0-7KYi6k {
+}
+
+.page-web .span1-7KYi6k {
+}
+
+.page-web .span2-7KYi6k {
+}
+
+.page-web .trouvez-ladress-voir-nos-offres-zUHXxW {
+  background-color: transparent;
+  height: 302px;
+  left: 723px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 782px;
+  width: 535px;
+}
+
+.page-web .span0-RCEeXM {
+}
+
+.page-web .span1-RCEeXM {
+}
+
+.page-web .span2-RCEeXM {
+}
+
+.page-web .dcouvrez-nos-so-ntt-disponibles-zUHXxW {
+  background-color: transparent;
+  height: 302px;
+  left: 1336px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 782px;
+  width: 535px;
+}
+
+.page-web .span0-ZmN5Ry {
+}
+
+.page-web .span1-ZmN5Ry {
+}
+
+.page-web .span2-ZmN5Ry {
+}
+
+.page-web .rectangle-26-zUHXxW {
+  background-color: var(--pickled-bluewood);
+  height: 156px;
+  left: 0px;
+  position: absolute;
+  top: 3243px;
+  width: 1920px;
+}
+
+.page-web .x2021-sapinet-16-mentions-lgales-zUHXxW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 302px;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 3271px;
+  transition: all 0.2s ease;
+  width: 1091px;
+}
+
+.page-web .x2021-sapinet-16-mentions-lgales-zUHXxW:hover {
+  color: #ABE188
+}
+
+.page-web .facebook-zUHXxW {
+  background-color: transparent;
+  height: 52px;
+  left: 1485px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 3291px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.page-web .facebook-zUHXxW:hover {
+  background-color: #ABE188
+}
+
+.page-web .twitter-zUHXxW {
+  background-color: transparent;
+  height: 52px;
+  left: 1583px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 3291px;
+  transition: all 0.2s ease;
+  width: 53px;
+}
+
+.page-web .twitter-zUHXxW:hover {
+  background-color: #ABE188
+}
+
+.page-web .linkedin-zUHXxW {
+  background-color: transparent;
+  height: 52px;
+  left: 1682px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 3291px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.page-web .linkedin-zUHXxW:hover {
+  background-color: #ABE188
+}
+
+.page-web .discorde-zUHXxW {
+  background-color: transparent;
+  height: 57px;
+  left: 1780px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 3294px;
+  transition: all 0.2s ease;
+  width: 57px;
+}
+
+.page-web .discorde-zUHXxW:hover {
+  background-color: #ABE188
+}
+
+.page-web .rectangle-28-zUHXxW {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1898px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.page-web .rectangle-29-zUHXxW {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1875px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.page-web .univers-web-zUHXxW {
+  background-color: transparent;
+  height: auto;
+  left: 701px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 386px;
+  width: 601px;
+}
+
+.page-web .span0-uZCS6r {
+}
+
+.page-web .span1-uZCS6r {
+}
+
+.page-web .span2-uZCS6r {
+}
+
+.page-web .ligne-9-zUHXxW {
+  background-color: transparent;
+  height: 4px;
+  left: 1066px;
+  object-fit: cover;
+  position: absolute;
+  top: 453px;
+  width: 93px;
+}
+
+.page-web .choisissez-la-s-pte-vos-besoins-zUHXxW {
+  background-color: transparent;
+  height: auto;
+  left: 604px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 484px;
+  width: 827px;
+}
+
+.page-web .span0-w768VJ {
+}
+
+.page-web .span1-w768VJ {
+}
+
+.page-web .span2-w768VJ {
+}
+
+.page-web .ligne-14-zUHXxW {
+  background-color: transparent;
+  height: 4px;
+  left: 783px;
+  object-fit: cover;
+  position: absolute;
+  top: 541px;
+  width: 165px;
+}
+
+.page-web .gh-zUHXxW {
+  background-color: transparent;
+  border-radius: 27px;
+  height: 610px;
+  left: 1043px;
+  object-fit: cover;
+  position: absolute;
+  top: 1360px;
+  width: 614px;
+}
+
+.page-web .fr-zUHXxW {
+  background-color: transparent;
+  height: 56px;
+  left: 394px;
+  object-fit: cover;
+  position: absolute;
+  top: 1418px;
+  width: 70px;
+}
+
+.page-web .hbergement-web-zUHXxW {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1371px;
+  width: 302px;
+}
+
+.page-web .dcouvrez-nos-so-pulss-par-plesk-zUHXxW {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1492px;
+  width: 555px;
+}
+
+.page-web .der-zUHXxW {
+  background-color: transparent;
+  height: 53px;
+  left: 394px;
+  object-fit: cover;
+  position: absolute;
+  top: 1602px;
+  width: 60px;
+}
+
+.page-web .noms-de-domaine-zUHXxW {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1552px;
+  width: 302px;
+}
+
+.page-web .trouvez-ladress-votre-site-web-zUHXxW {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1674px;
+  width: 555px;
+}
+
+.page-web .ert-zUHXxW {
+  background-color: transparent;
+  height: 51px;
+  left: 400px;
+  object-fit: cover;
+  position: absolute;
+  top: 1780px;
+  width: 56px;
+}
+
+.page-web .email-professionnel-g6MqEV {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1731px;
+  width: 382px;
+}
+
+.page-web .profitez-dune-a-otre-entreprise-zUHXxW {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1847px;
+  width: 555px;
+}
+
+.page-web .aucune-offre-ne-ond-vos-besoins-zUHXxW {
+  background-color: transparent;
+  height: 302px;
+  left: 553px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 2385px;
+  width: 1203px;
+}
+
+.page-web .span0-qWiySY {
+}
+
+.page-web .span1-qWiySY {
+}
+
+.page-web .span2-qWiySY {
+}
+
+.page-web .nous-nous-effor-on-personnalise-zUHXxW {
+  background-color: transparent;
+  height: 302px;
+  left: 412px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 2510px;
+  width: 1309px;
+}
+
+.page-web .ligne-15-zUHXxW {
+  background-color: transparent;
+  height: 5px;
+  left: 1154px;
+  object-fit: cover;
+  position: absolute;
+  top: 2452px;
+  width: 286px;
+}
+
+.page-web .rectangle-3-zUHXxW {
+  background-color: var(--jade);
+  border-radius: 22px;
+  box-shadow: 5px 3px 0px #00000029;
+  cursor: pointer;
+  height: 119px;
+  left: 726px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2749px;
+  transition: all 0.2s ease;
+  width: 526px;
+}
+
+.page-web .rectangle-3-zUHXxW:hover {
+  transform: scale(1.1);
+}
+
+.page-web .nous-contacter-zUHXxW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 762px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 2775px;
+  transition: all 0.2s ease;
+  width: 469px;
+}
+
+.page-web .nous-contacter-zUHXxW:hover {
+  color: #ABE188
+}
+
+.page-web .web-zUHXxW {
+  background-color: transparent;
+  height: auto;
+  left: 608px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 223px;
+}
+
+.page-web .web-zUHXxW:hover {
+  color: #ABE188
+}
+
+.page-web .vps-zUHXxW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 783px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 189px;
+}
+
+.page-web .vps-zUHXxW:hover {
+  color: #ABE188
+}
+
+.page-web .datacenter-zUHXxW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 977px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 227px;
+}
+
+.page-web .datacenter-zUHXxW:hover {
+  color: #ABE188
+}
+
+.page-web .a-propos-zUHXxW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1235px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 227px;
+}
+
+.page-web .a-propos-zUHXxW:hover {
+  color: #ABE188
+}

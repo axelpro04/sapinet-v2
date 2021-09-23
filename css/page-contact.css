@@ -1,0 +1,508 @@
+/* screen - page-contact */
+
+.page-contact {
+  background-color: var(--white);
+  height: 1762px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.page-contact .rectangle-11-jqKADG {
+  background-color: var(--outer-space);
+  height: 1644px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-contact .groupe-dfilant-2-jqKADG::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.page-contact .groupe-dfilant-2-jqKADG {
+  background-color: transparent;
+  height: 276px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: scroll;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-contact .datacenter-olek-erstock-684x513-LmlkKT {
+  background-color: transparent;
+  height: 1557px;
+  left: -78px;
+  object-fit: cover;
+  position: absolute;
+  top: -141px;
+  width: 2076px;
+}
+
+.page-contact .rectangle-2-jqKADG {
+  background-color: var(--black);
+  height: 276px;
+  left: 0px;
+  opacity: 0.57;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-contact .sans-titre-1-jqKADG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 145px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 145px;
+}
+
+.page-contact .ellipse-2-jqKADG {
+  background-color: transparent;
+  border-radius: 95px;
+  height: 190px;
+  left: 85px;
+  position: absolute;
+  top: 43px;
+  width: 190px;
+}
+
+.page-contact .sapinet-jqKADG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 232px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 396px;
+}
+
+.page-contact .sapinet-jqKADG:hover {
+  color: #ABE188
+}
+
+.page-contact .ellipse-3-jqKADG {
+  background-color: var(--jade);
+  border-radius: 49px;
+  cursor: pointer;
+  height: 98px;
+  left: 1531px;
+  position: absolute;
+  top: 12px;
+  width: 98px;
+}
+
+.page-contact .ellipse-4-jqKADG {
+  background-color: var(--white);
+  border-radius: 15px;
+  cursor: pointer;
+  height: 30px;
+  left: 1565px;
+  position: absolute;
+  top: 27px;
+  width: 30px;
+}
+
+.page-contact .rectangle-4-jqKADG {
+  background-color: var(--white);
+  border-radius: 8px;
+  cursor: pointer;
+  height: 27px;
+  left: 1558px;
+  position: absolute;
+  top: 67px;
+  width: 45px;
+}
+
+.page-contact .espace-client-jqKADG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1640px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: 218px;
+}
+
+.page-contact .ligne-1-jqKADG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 4px;
+  left: 1624px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 237px;
+}
+
+.page-contact .rectangle-12-jqKADG {
+  background-color: var(--white);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 939px;
+  left: 238px;
+  position: absolute;
+  top: 350px;
+  width: 1444px;
+}
+
+.page-contact .rectangle-26-jqKADG {
+  background-color: var(--pickled-bluewood);
+  height: 156px;
+  left: 0px;
+  position: absolute;
+  top: 1616px;
+  width: 1920px;
+}
+
+.page-contact .x2021-sapinet-16-mentions-lgales-jqKADG {
+  background-color: transparent;
+  cursor: pointer;
+  height: 302px;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 1644px;
+  transition: all 0.2s ease;
+  width: 1091px;
+}
+
+.page-contact .x2021-sapinet-16-mentions-lgales-jqKADG:hover {
+  color: #ABE188
+}
+
+.page-contact .facebook-jqKADG {
+  background-color: transparent;
+  height: 52px;
+  left: 1485px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1664px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.page-contact .facebook-jqKADG:hover {
+  background-color: #ABE188
+}
+
+.page-contact .twitter-jqKADG {
+  background-color: transparent;
+  height: 52px;
+  left: 1583px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1664px;
+  transition: all 0.2s ease;
+  width: 53px;
+}
+
+.page-contact .twitter-jqKADG:hover {
+  background-color: #ABE188
+}
+
+.page-contact .linkedin-jqKADG {
+  background-color: transparent;
+  height: 52px;
+  left: 1682px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1664px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.page-contact .linkedin-jqKADG:hover {
+  background-color: #ABE188
+}
+
+.page-contact .discorde-jqKADG {
+  background-color: transparent;
+  height: 57px;
+  left: 1780px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 1667px;
+  transition: all 0.2s ease;
+  width: 57px;
+}
+
+.page-contact .discorde-jqKADG:hover {
+  background-color: #ABE188
+}
+
+.page-contact .rectangle-28-jqKADG {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1898px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.page-contact .rectangle-29-jqKADG {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1875px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.page-contact .hj-jqKADG {
+  background-color: transparent;
+  border-radius: 27px;
+  height: 490px;
+  left: 1125px;
+  object-fit: cover;
+  position: absolute;
+  top: 524px;
+  width: 492px;
+}
+
+.page-contact .vous-souhaitez-nde-particulire-jqKADG {
+  background-color: transparent;
+  height: 302px;
+  left: 293px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 394px;
+  width: 1063px;
+}
+
+.page-contact .span0-fbpSPX {
+}
+
+.page-contact .span1-fbpSPX {
+}
+
+.page-contact .rectangle-37-jqKADG {
+  background-color: var(--white);
+  border-radius: 43px;
+  height: 63px;
+  left: 334px;
+  position: absolute;
+  top: 547px;
+  width: 345px;
+}
+
+.page-contact .rectangle-38-jqKADG {
+  background-color: var(--white);
+  border-radius: 43px;
+  height: 63px;
+  left: 725px;
+  position: absolute;
+  top: 547px;
+  width: 347px;
+}
+
+.page-contact .rectangle-39-jqKADG {
+  background-color: var(--white);
+  border-radius: 43px;
+  height: 63px;
+  left: 334px;
+  position: absolute;
+  top: 688px;
+  width: 738px;
+}
+
+.page-contact .rectangle-40-jqKADG {
+  background-color: var(--white);
+  border-radius: 43px;
+  height: 246px;
+  left: 334px;
+  position: absolute;
+  top: 852px;
+  width: 738px;
+}
+
+.page-contact .nom-jqKADG {
+  background-color: transparent;
+  height: auto;
+  left: 334px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 491px;
+  width: 295px;
+}
+
+.page-contact .prnom-jqKADG {
+  background-color: transparent;
+  height: auto;
+  left: 725px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 491px;
+  width: 295px;
+}
+
+.page-contact .mail-jqKADG {
+  background-color: transparent;
+  height: auto;
+  left: 334px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 632px;
+  width: 295px;
+}
+
+.page-contact .message-jqKADG {
+  background-color: transparent;
+  height: auto;
+  left: 334px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 796px;
+  width: 295px;
+}
+
+.page-contact .rectangle-41-jqKADG {
+  background-color: var(--jade);
+  border-radius: 30px;
+  cursor: pointer;
+  height: 84px;
+  left: 764px;
+  position: absolute;
+  top: 1164px;
+  width: 361px;
+}
+
+.page-contact .envoyer-jqKADG {
+  background-color: transparent;
+  color: #fefefe;
+  cursor: pointer;
+  font-family: var(--font-family-segoeui-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 822px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1183px;
+  width: 265px;
+}
+
+.page-contact .ligne-16-jqKADG {
+  background-color: transparent;
+  height: 5px;
+  left: 938px;
+  object-fit: cover;
+  position: absolute;
+  top: 442px;
+  width: 348px;
+}
+
+.page-contact .web-jqKADG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 608px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 223px;
+}
+
+.page-contact .web-jqKADG:hover {
+  color: #ABE188
+}
+
+.page-contact .vps-jqKADG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 783px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 189px;
+}
+
+.page-contact .vps-jqKADG:hover {
+  color: #ABE188
+}
+
+.page-contact .datacenter-jqKADG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 977px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 227px;
+}
+
+.page-contact .datacenter-jqKADG:hover {
+  color: #ABE188
+}
+
+.page-contact .a-propos-jqKADG {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1235px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 227px;
+}
+
+.page-contact .a-propos-jqKADG:hover {
+  color: #ABE188
+}

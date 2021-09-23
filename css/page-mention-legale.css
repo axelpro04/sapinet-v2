@@ -1,0 +1,394 @@
+/* screen - page-mention-legale */
+
+.page-mention-legale {
+  background-color: var(--white);
+  height: 2734px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.page-mention-legale .rectangle-11-XDCgwB {
+  background-color: var(--outer-space);
+  height: 2589px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-mention-legale .groupe-dfilant-2-XDCgwB::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.page-mention-legale .groupe-dfilant-2-XDCgwB {
+  background-color: transparent;
+  height: 276px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: scroll;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-mention-legale .datacenter-olek-erstock-684x513-0vnpdy {
+  background-color: transparent;
+  height: 1557px;
+  left: -78px;
+  object-fit: cover;
+  position: absolute;
+  top: -141px;
+  width: 2076px;
+}
+
+.page-mention-legale .rectangle-2-XDCgwB {
+  background-color: var(--black);
+  height: 276px;
+  left: 0px;
+  opacity: 0.57;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-mention-legale .sans-titre-1-XDCgwB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 145px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 145px;
+}
+
+.page-mention-legale .ellipse-2-XDCgwB {
+  background-color: transparent;
+  border-radius: 95px;
+  height: 190px;
+  left: 85px;
+  position: absolute;
+  top: 43px;
+  width: 190px;
+}
+
+.page-mention-legale .sapinet-XDCgwB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 232px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 396px;
+}
+
+.page-mention-legale .sapinet-XDCgwB:hover {
+  color: #ABE188
+}
+
+.page-mention-legale .ellipse-3-XDCgwB {
+  background-color: var(--jade);
+  border-radius: 49px;
+  cursor: pointer;
+  height: 98px;
+  left: 1531px;
+  position: absolute;
+  top: 12px;
+  width: 98px;
+}
+
+.page-mention-legale .ellipse-4-XDCgwB {
+  background-color: var(--white);
+  border-radius: 15px;
+  cursor: pointer;
+  height: 30px;
+  left: 1565px;
+  position: absolute;
+  top: 27px;
+  width: 30px;
+}
+
+.page-mention-legale .rectangle-4-XDCgwB {
+  background-color: var(--white);
+  border-radius: 8px;
+  cursor: pointer;
+  height: 27px;
+  left: 1558px;
+  position: absolute;
+  top: 67px;
+  width: 45px;
+}
+
+.page-mention-legale .espace-client-XDCgwB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1640px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  transition: all 0.2s ease;
+  width: 218px;
+}
+
+.page-mention-legale .espace-client-XDCgwB:hover {
+  color: #ABE188
+}
+
+.page-mention-legale .ligne-1-XDCgwB {
+  background-color: transparent;
+  cursor: pointer;
+  height: 4px;
+  left: 1624px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 237px;
+}
+
+.page-mention-legale .rectangle-12-XDCgwB {
+  background-color: var(--white);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 2106px;
+  left: 238px;
+  position: absolute;
+  top: 350px;
+  width: 1444px;
+}
+
+.page-mention-legale .rectangle-26-XDCgwB {
+  background-color: var(--pickled-bluewood);
+  height: 156px;
+  left: 0px;
+  position: absolute;
+  top: 2578px;
+  width: 1920px;
+}
+
+.page-mention-legale .x2021-sapinet-16-mentions-lgales-XDCgwB {
+  background-color: transparent;
+  height: 302px;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2606px;
+  transition: all 0.2s ease;
+  width: 1091px;
+}
+
+.page-mention-legale .x2021-sapinet-16-mentions-lgales-XDCgwB:hover {
+  color: #ABE188
+}
+
+.page-mention-legale .facebook-XDCgwB {
+  background-color: transparent;
+  height: 52px;
+  left: 1485px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 2626px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.page-mention-legale .facebook-XDCgwB:hover {
+  background-color: #ABE188
+}
+
+.page-mention-legale .twitter-XDCgwB {
+  background-color: transparent;
+  height: 52px;
+  left: 1583px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 2626px;
+  transition: all 0.2s ease;
+  width: 53px;
+}
+
+.page-mention-legale .twitter-XDCgwB:hover {
+  background-color: #ABE188
+}
+
+.page-mention-legale .linkedin-XDCgwB {
+  background-color: transparent;
+  height: 52px;
+  left: 1682px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 2626px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.page-mention-legale .linkedin-XDCgwB:hover {
+  background-color: #ABE188
+}
+
+.page-mention-legale .discorde-XDCgwB {
+  background-color: transparent;
+  height: 57px;
+  left: 1780px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 2629px;
+  transition: all 0.2s ease;
+  width: 57px;
+}
+
+.page-mention-legale .discorde-XDCgwB:hover {
+  background-color: #ABE188
+}
+
+.page-mention-legale .rectangle-28-XDCgwB {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1898px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.page-mention-legale .rectangle-29-XDCgwB {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1875px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.page-mention-legale .mentions-lgales-XDCgwB {
+  background-color: transparent;
+  height: 302px;
+  left: 740px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 395px;
+  width: 1063px;
+}
+
+.page-mention-legale .prsentation-du-alisation-et-de-XDCgwB {
+  background-color: transparent;
+  color: var(--dove-gray);
+  font-family: var(--font-family-segoe_ui);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 2057px;
+  left: 293px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 557px;
+  width: 1349px;
+}
+
+.page-mention-legale .span0-lQJFYz {
+  color: var(--black);
+  font-family: var(--font-family-segoeui-regular);
+  font-style: normal;
+}
+
+.page-mention-legale .span1-lQJFYz {
+}
+
+.page-mention-legale .web-XDCgwB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 608px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 223px;
+}
+
+.page-mention-legale .web-XDCgwB:hover {
+  color: #ABE188
+}
+
+.page-mention-legale .vps-XDCgwB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 783px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 189px;
+}
+
+.page-mention-legale .vps-XDCgwB:hover {
+  color: #ABE188
+}
+
+.page-mention-legale .datacenter-XDCgwB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 977px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 227px;
+}
+
+.page-mention-legale .datacenter-XDCgwB:hover {
+  color: #ABE188
+}
+
+.page-mention-legale .a-propos-XDCgwB {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1235px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 227px;
+}
+
+.page-mention-legale .a-propos-XDCgwB:hover {
+  color: #ABE188
+}

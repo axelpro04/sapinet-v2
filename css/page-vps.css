@@ -1,0 +1,897 @@
+/* screen - page-vps */
+
+.page-vps {
+  background-color: var(--white);
+  height: 3397px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.page-vps .rectangle-11-xDPmKR {
+  background-color: var(--outer-space);
+  height: 3301px;
+  left: 0px;
+  position: fixed;
+  top: -49px;
+  width: 1920px;
+}
+
+.page-vps .groupe-dfilant-2-xDPmKR::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.page-vps .groupe-dfilant-2-xDPmKR {
+  background-color: transparent;
+  height: 276px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: scroll;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-vps .datacenter-olek-erstock-684x513-AgznjZ {
+  background-color: transparent;
+  height: 1557px;
+  left: -78px;
+  object-fit: cover;
+  position: absolute;
+  top: -141px;
+  width: 2076px;
+}
+
+.page-vps .rectangle-2-xDPmKR {
+  background-color: var(--black);
+  height: 276px;
+  left: 0px;
+  opacity: 0.57;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-vps .sans-titre-1-xDPmKR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 145px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 145px;
+}
+
+.page-vps .ellipse-2-xDPmKR {
+  background-color: transparent;
+  border-radius: 95px;
+  height: 190px;
+  left: 85px;
+  position: absolute;
+  top: 43px;
+  width: 190px;
+}
+
+.page-vps .sapinet-xDPmKR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 232px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 396px;
+}
+
+.page-vps .sapinet-xDPmKR:hover {
+  color: #ABE188
+}
+
+.page-vps .ellipse-3-xDPmKR {
+  background-color: var(--jade);
+  border-radius: 49px;
+  cursor: pointer;
+  height: 98px;
+  left: 1531px;
+  position: absolute;
+  top: 12px;
+  width: 98px;
+}
+
+.page-vps .ellipse-4-xDPmKR {
+  background-color: var(--white);
+  border-radius: 15px;
+  cursor: pointer;
+  height: 30px;
+  left: 1565px;
+  position: absolute;
+  top: 27px;
+  width: 30px;
+}
+
+.page-vps .rectangle-4-xDPmKR {
+  background-color: var(--white);
+  border-radius: 8px;
+  cursor: pointer;
+  height: 27px;
+  left: 1558px;
+  position: absolute;
+  top: 67px;
+  width: 45px;
+}
+
+.page-vps .espace-client-xDPmKR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1640px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  transition: all 0.2s ease;
+  width: 218px;
+}
+
+.page-vps .espace-client-xDPmKR:hover {
+  color: #ABE188
+}
+
+.page-vps .ligne-1-xDPmKR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 4px;
+  left: 1624px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 237px;
+}
+
+.page-vps .ligne-3-xDPmKR {
+  background-color: transparent;
+  height: 4px;
+  left: 854px;
+  object-fit: cover;
+  position: absolute;
+  top: 176px;
+  width: 49px;
+}
+
+.page-vps .rectangle-12-xDPmKR {
+  background-color: var(--white);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 790px;
+  left: 267px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1273px;
+  transition: all 0.2s ease;
+  width: 1444px;
+}
+
+.page-vps .rectangle-12-xDPmKR:hover {
+  transform: translate(0, -5px);box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.page-vps .rectangle-14-xDPmKR {
+  background-color: var(--white-lilac);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 637px;
+  left: -37px;
+  position: absolute;
+  top: 2323px;
+  width: 2092px;
+}
+
+.page-vps .rectangle-18-xDPmKR {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 366px;
+  left: 85px;
+  pointer-events: auto;
+  position: absolute;
+  top: 679px;
+  transition: all 0.2s ease;
+  width: 518px;
+}
+
+.page-vps .rectangle-18-xDPmKR:hover {
+  transform: translate(-5px, 0);
+}
+
+.page-vps .rectangle-19-xDPmKR {
+  background-color: var(--white);
+  border-radius: 45px;
+  height: 283px;
+  left: 698px;
+  position: absolute;
+  top: 679px;
+  width: 518px;
+}
+
+.page-vps .rectangle-21-xDPmKR {
+  background-color: var(--pickled-bluewood);
+  border-radius: 7px;
+  height: 52px;
+  left: 135px;
+  pointer-events: auto;
+  position: absolute;
+  top: 716px;
+  transition: all 0.2s ease;
+  width: 201px;
+}
+
+.page-vps .rectangle-21-xDPmKR:hover {
+  transform: scale(1.1);
+}
+
+.page-vps .vps-standard-xDPmKR {
+  background-color: transparent;
+  height: auto;
+  left: 163px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 729px;
+  transition: all 0.2s ease;
+  width: 217px;
+}
+
+.page-vps .vps-standard-xDPmKR:hover {
+  transform: scale(1.1);
+}
+
+.page-vps .rectangle-22-xDPmKR {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 366px;
+  left: 698px;
+  pointer-events: auto;
+  position: absolute;
+  top: 679px;
+  transition: all 0.2s ease;
+  width: 518px;
+}
+
+.page-vps .rectangle-22-xDPmKR:hover {
+  transform: translate(0, -5px);
+}
+
+.page-vps .rectangle-23-xDPmKR {
+  background-color: var(--niagara);
+  border-radius: 9px;
+  height: 52px;
+  left: 748px;
+  pointer-events: auto;
+  position: absolute;
+  top: 716px;
+  transition: all 0.2s ease;
+  width: 250px;
+}
+
+.page-vps .rectangle-23-xDPmKR:hover {
+  transform: scale(1.1);
+}
+
+.page-vps .vps-performances-xDPmKR {
+  background-color: transparent;
+  height: auto;
+  left: 776px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 728px;
+  transition: all 0.2s ease;
+  width: 220px;
+}
+
+.page-vps .vps-performances-xDPmKR:hover {
+  transform: scale(1.1);
+}
+
+.page-vps .rectangle-24-xDPmKR {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 366px;
+  left: 1311px;
+  pointer-events: auto;
+  position: absolute;
+  top: 679px;
+  transition: all 0.2s ease;
+  width: 518px;
+}
+
+.page-vps .rectangle-24-xDPmKR:hover {
+  transform: translate(5px, 0);
+}
+
+.page-vps .rectangle-25-xDPmKR {
+  background-color: var(--jade);
+  border-radius: 11px;
+  height: 52px;
+  left: 1361px;
+  pointer-events: auto;
+  position: absolute;
+  top: 716px;
+  transition: all 0.2s ease;
+  width: 174px;
+}
+
+.page-vps .rectangle-25-xDPmKR:hover {
+  transform: scale(1.1);
+}
+
+.page-vps .vps-stockage-xDPmKR {
+  background-color: transparent;
+  height: auto;
+  left: 1374px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 728px;
+  transition: all 0.2s ease;
+  width: 239px;
+}
+
+.page-vps .vps-stockage-xDPmKR:hover {
+  transform: scale(1.1);
+}
+
+.page-vps .gamme-de-machin-voir-nos-offres-xDPmKR {
+  background-color: transparent;
+  height: 302px;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 782px;
+  width: 535px;
+}
+
+.page-vps .span0-7YAD7I {
+}
+
+.page-vps .span1-7YAD7I {
+}
+
+.page-vps .span2-7YAD7I {
+}
+
+.page-vps .propulsez-vos-s-ntt-disponibles-xDPmKR {
+  background-color: transparent;
+  height: 302px;
+  left: 723px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 782px;
+  width: 535px;
+}
+
+.page-vps .span0-pxuBqW {
+}
+
+.page-vps .span1-pxuBqW {
+}
+
+.page-vps .span2-pxuBqW {
+}
+
+.page-vps .offre-vps-conue-ntt-disponibles-xDPmKR {
+  background-color: transparent;
+  height: 302px;
+  left: 1336px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 782px;
+  width: 535px;
+}
+
+.page-vps .span0-qdkZ3i {
+}
+
+.page-vps .span1-qdkZ3i {
+}
+
+.page-vps .span2-qdkZ3i {
+}
+
+.page-vps .rectangle-26-xDPmKR {
+  background-color: var(--pickled-bluewood);
+  height: 156px;
+  left: 0px;
+  position: absolute;
+  top: 3243px;
+  width: 1920px;
+}
+
+.page-vps .x2021-sapinet-16-mentions-lgales-xDPmKR {
+  background-color: transparent;
+  cursor: pointer;
+  height: 302px;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 3271px;
+  transition: all 0.2s ease;
+  width: 1091px;
+}
+
+.page-vps .x2021-sapinet-16-mentions-lgales-xDPmKR:hover {
+  color: #ABE188
+}
+
+.page-vps .facebook-xDPmKR {
+  background-color: transparent;
+  height: 52px;
+  left: 1485px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 3291px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.page-vps .facebook-xDPmKR:hover {
+  background-color: #ABE188
+}
+
+.page-vps .twitter-xDPmKR {
+  background-color: transparent;
+  height: 52px;
+  left: 1583px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 3291px;
+  transition: all 0.2s ease;
+  width: 53px;
+}
+
+.page-vps .twitter-xDPmKR:hover {
+  background-color: #ABE188
+}
+
+.page-vps .linkedin-xDPmKR {
+  background-color: transparent;
+  height: 52px;
+  left: 1682px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 3291px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.page-vps .linkedin-xDPmKR:hover {
+  background-color: #ABE188
+}
+
+.page-vps .discorde-xDPmKR {
+  background-color: transparent;
+  height: 57px;
+  left: 1780px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 3294px;
+  transition: all 0.2s ease;
+  width: 57px;
+}
+
+.page-vps .discorde-xDPmKR:hover {
+  background-color: #ABE188
+}
+
+.page-vps .rectangle-28-xDPmKR {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1898px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.page-vps .rectangle-29-xDPmKR {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1875px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.page-vps .univers-vps-xDPmKR {
+  background-color: transparent;
+  height: auto;
+  left: 701px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 386px;
+  width: 601px;
+}
+
+.page-vps .span0-Ik4xxC {
+}
+
+.page-vps .span1-Ik4xxC {
+}
+
+.page-vps .span2-Ik4xxC {
+}
+
+.page-vps .ligne-9-xDPmKR {
+  background-color: transparent;
+  height: 4px;
+  left: 1071px;
+  object-fit: cover;
+  position: absolute;
+  top: 454px;
+  width: 82px;
+}
+
+.page-vps .choisissez-la-s-pte-vos-besoins-xDPmKR {
+  background-color: transparent;
+  height: auto;
+  left: 604px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 484px;
+  width: 827px;
+}
+
+.page-vps .span0-SfWIzX {
+}
+
+.page-vps .span1-SfWIzX {
+}
+
+.page-vps .span2-SfWIzX {
+}
+
+.page-vps .ligne-14-xDPmKR {
+  background-color: transparent;
+  height: 4px;
+  left: 782px;
+  object-fit: cover;
+  position: absolute;
+  top: 542px;
+  width: 167px;
+}
+
+.page-vps .gg-xDPmKR {
+  background-color: transparent;
+  border-radius: 27px;
+  height: 610px;
+  left: 1043px;
+  object-fit: cover;
+  position: absolute;
+  top: 1360px;
+  width: 614px;
+}
+
+.page-vps .fr-xDPmKR {
+  background-color: transparent;
+  height: 56px;
+  left: 394px;
+  object-fit: cover;
+  position: absolute;
+  top: 1418px;
+  width: 70px;
+}
+
+.page-vps .vps-standard-iIBbYT {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1371px;
+  width: 302px;
+}
+
+.page-vps .dcouvrez-nos-of-technologie-kvm-xDPmKR {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 1492px;
+  width: 555px;
+}
+
+.page-vps .der-xDPmKR {
+  background-color: transparent;
+  height: 53px;
+  left: 394px;
+  object-fit: cover;
+  position: absolute;
+  top: 1602px;
+  width: 60px;
+}
+
+.page-vps .vps-performances-iIBbYT {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1552px;
+  width: 302px;
+}
+
+.page-vps .profitez-dun-vp-nration-ryzen-7-xDPmKR {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 1674px;
+  width: 555px;
+}
+
+.page-vps .ert-xDPmKR {
+  background-color: transparent;
+  height: 51px;
+  left: 400px;
+  object-fit: cover;
+  position: absolute;
+  top: 1780px;
+  width: 56px;
+}
+
+.page-vps .vps-stockage-iIBbYT {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1731px;
+  width: 382px;
+}
+
+.page-vps .besoin-de-stock-solution-idale-xDPmKR {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 1847px;
+  width: 555px;
+}
+
+.page-vps .aucune-offre-ne-ond-vos-besoins-xDPmKR {
+  background-color: transparent;
+  color: var(--jade);
+  font-family: var(--font-family-segoe_ui);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  height: 302px;
+  left: 553px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 2385px;
+  width: 1269px;
+}
+
+.page-vps .span0-m7i2FA {
+}
+
+.page-vps .span1-m7i2FA {
+}
+
+.page-vps .span2-m7i2FA {
+  font-family: var(--font-family-segoeui-regular);
+  font-style: normal;
+}
+
+.page-vps .nous-nous-effor-on-personnalise-xDPmKR {
+  background-color: transparent;
+  height: 302px;
+  left: 412px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 2510px;
+  width: 1309px;
+}
+
+.page-vps .ligne-15-xDPmKR {
+  background-color: transparent;
+  height: 4px;
+  left: 1142px;
+  object-fit: cover;
+  position: absolute;
+  top: 2453px;
+  width: 275px;
+}
+
+.page-vps .rectangle-3-xDPmKR {
+  background-color: var(--jade);
+  border-radius: 22px;
+  box-shadow: 5px 3px 0px #00000029;
+  height: 119px;
+  left: 726px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2749px;
+  transition: all 0.2s ease;
+  width: 526px;
+}
+
+.page-vps .rectangle-3-xDPmKR:hover {
+  transform: scale(1.1);
+}
+
+.page-vps .nous-contacter-xDPmKR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 762px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 2775px;
+  transition: all 0.2s ease;
+  width: 469px;
+}
+
+.page-vps .nous-contacter-xDPmKR:hover {
+  transform: scale(1.1);
+}
+
+.page-vps .re-xDPmKR {
+  background-color: transparent;
+  height: 52px;
+  left: 404px;
+  object-fit: cover;
+  position: absolute;
+  top: 1418px;
+  width: 50px;
+}
+
+.page-vps .ggr-xDPmKR {
+  background-color: transparent;
+  height: 47px;
+  left: 405px;
+  object-fit: cover;
+  position: absolute;
+  top: 1782px;
+  width: 46px;
+}
+
+.page-vps .bt-xDPmKR {
+  background-color: transparent;
+  height: 57px;
+  left: 400px;
+  object-fit: cover;
+  position: absolute;
+  top: 1600px;
+  width: 49px;
+}
+
+.page-vps .web-xDPmKR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 608px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 223px;
+}
+
+.page-vps .web-xDPmKR:hover {
+  color: #ABE188
+}
+
+.page-vps .vps-xDPmKR {
+  background-color: transparent;
+  height: auto;
+  left: 783px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 189px;
+}
+
+.page-vps .vps-xDPmKR:hover {
+  color: #ABE188
+}
+
+.page-vps .datacenter-xDPmKR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 977px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 227px;
+}
+
+.page-vps .datacenter-xDPmKR:hover {
+  color: #ABE188
+}
+
+.page-vps .a-propos-xDPmKR {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1235px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 227px;
+}
+
+.page-vps .a-propos-xDPmKR:hover {
+  color: #ABE188
+}

@@ -1,0 +1,519 @@
+/* screen - page-a-propos */
+
+.page-a-propos {
+  background-color: var(--white);
+  height: 2296px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.page-a-propos .rectangle-11-7VZX3p {
+  background-color: var(--outer-space);
+  height: 3301px;
+  left: 0px;
+  position: fixed;
+  top: -1012px;
+  width: 1920px;
+}
+
+.page-a-propos .groupe-dfilant-2-7VZX3p::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.page-a-propos .groupe-dfilant-2-7VZX3p {
+  background-color: transparent;
+  height: 276px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: scroll;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-a-propos .datacenter-olek-erstock-684x513-dJ26op {
+  background-color: transparent;
+  height: 1557px;
+  left: -78px;
+  object-fit: cover;
+  position: absolute;
+  top: -141px;
+  width: 2076px;
+}
+
+.page-a-propos .rectangle-2-7VZX3p {
+  background-color: var(--black);
+  height: 276px;
+  left: 0px;
+  opacity: 0.57;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-a-propos .sans-titre-1-7VZX3p {
+  background-color: transparent;
+  cursor: pointer;
+  height: 145px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 145px;
+}
+
+.page-a-propos .ellipse-2-7VZX3p {
+  background-color: transparent;
+  border-radius: 95px;
+  cursor: pointer;
+  height: 190px;
+  left: 85px;
+  position: absolute;
+  top: 43px;
+  width: 190px;
+}
+
+.page-a-propos .sapinet-7VZX3p {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 232px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 396px;
+}
+
+.page-a-propos .sapinet-7VZX3p:hover {
+  color: #ABE188
+}
+
+.page-a-propos .ellipse-3-7VZX3p {
+  background-color: var(--jade);
+  border-radius: 49px;
+  cursor: pointer;
+  height: 98px;
+  left: 1531px;
+  position: absolute;
+  top: 12px;
+  width: 98px;
+}
+
+.page-a-propos .ellipse-4-7VZX3p {
+  background-color: var(--white);
+  border-radius: 15px;
+  cursor: pointer;
+  height: 30px;
+  left: 1565px;
+  position: absolute;
+  top: 27px;
+  width: 30px;
+}
+
+.page-a-propos .rectangle-4-7VZX3p {
+  background-color: var(--white);
+  border-radius: 8px;
+  cursor: pointer;
+  height: 27px;
+  left: 1558px;
+  position: absolute;
+  top: 67px;
+  width: 45px;
+}
+
+.page-a-propos .espace-client-7VZX3p {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1640px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  transition: all 0.2s ease;
+  width: 218px;
+}
+
+.page-a-propos .espace-client-7VZX3p:hover {
+  color: #ABE188
+}
+
+.page-a-propos .ligne-1-7VZX3p {
+  background-color: transparent;
+  cursor: pointer;
+  height: 4px;
+  left: 1624px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 237px;
+}
+
+.page-a-propos .rectangle-12-7VZX3p {
+  background-color: var(--white-lilac);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 1669px;
+  left: 267px;
+  pointer-events: auto;
+  position: absolute;
+  top: 394px;
+  transition: all 0.2s ease;
+  width: 1444px;
+}
+
+.page-a-propos .rectangle-12-7VZX3p:hover {
+  transform: translate(0, -5px);box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.page-a-propos .rectangle-26-7VZX3p {
+  background-color: var(--pickled-bluewood);
+  height: 156px;
+  left: 0px;
+  position: absolute;
+  top: 2142px;
+  width: 1920px;
+}
+
+.page-a-propos .facebook-7VZX3p {
+  background-color: transparent;
+  height: 52px;
+  left: 1489px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 2190px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.page-a-propos .facebook-7VZX3p:hover {
+  background-color: #ABE188
+}
+
+.page-a-propos .twitter-7VZX3p {
+  background-color: transparent;
+  height: 52px;
+  left: 1587px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 2190px;
+  transition: all 0.2s ease;
+  width: 53px;
+}
+
+.page-a-propos .twitter-7VZX3p:hover {
+  background-color: #ABE188
+}
+
+.page-a-propos .linkedin-7VZX3p {
+  background-color: transparent;
+  height: 52px;
+  left: 1686px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 2190px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.page-a-propos .linkedin-7VZX3p:hover {
+  background-color: #ABE188
+}
+
+.page-a-propos .discorde-7VZX3p {
+  background-color: transparent;
+  height: 57px;
+  left: 1784px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 2193px;
+  transition: all 0.2s ease;
+  width: 57px;
+}
+
+.page-a-propos .discorde-7VZX3p:hover {
+  background-color: #ABE188
+}
+
+.page-a-propos .rectangle-28-7VZX3p {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1898px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.page-a-propos .rectangle-29-7VZX3p {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1875px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.page-a-propos .web-7VZX3p {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 608px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 223px;
+}
+
+.page-a-propos .web-7VZX3p:hover {
+  color: #ABE188
+}
+
+.page-a-propos .vps-7VZX3p {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 783px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 189px;
+}
+
+.page-a-propos .vps-7VZX3p:hover {
+  color: #ABE188
+}
+
+.page-a-propos .datacenter-7VZX3p {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 977px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 227px;
+}
+
+.page-a-propos .datacenter-7VZX3p:hover {
+  color: #ABE188
+}
+
+.page-a-propos .a-propos-7VZX3p {
+  background-color: transparent;
+  height: auto;
+  left: 1235px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 227px;
+}
+
+.page-a-propos .a-propos-7VZX3p:hover {
+  color: #ABE188
+}
+
+.page-a-propos .ligne-18-7VZX3p {
+  background-color: transparent;
+  height: 5px;
+  left: 1268px;
+  object-fit: cover;
+  position: absolute;
+  top: 180px;
+  width: 161px;
+}
+
+.page-a-propos .nos-partenaire-7VZX3p {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 600px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 449px;
+  width: 743px;
+}
+
+.page-a-propos .intel-logo-2020-svg-7VZX3p {
+  background-color: transparent;
+  height: 112px;
+  left: 353px;
+  object-fit: cover;
+  position: absolute;
+  top: 582px;
+  width: 284px;
+}
+
+.page-a-propos .dell-logo-png-f-png-709-300x92-7VZX3p {
+  background-color: transparent;
+  height: 112px;
+  left: 719px;
+  object-fit: cover;
+  position: absolute;
+  top: 582px;
+  width: 365px;
+}
+
+.page-a-propos .crucial-suppliers-dubai-7VZX3p {
+  background-color: transparent;
+  height: 135px;
+  left: 1202px;
+  object-fit: cover;
+  position: absolute;
+  top: 571px;
+  width: 400px;
+}
+
+.page-a-propos .pngwingcom-7VZX3p {
+  background-color: transparent;
+  height: 233px;
+  left: 802px;
+  object-fit: cover;
+  position: absolute;
+  top: 751px;
+  width: 414px;
+}
+
+.page-a-propos .x1-7VZX3p {
+  background-color: transparent;
+  height: 262px;
+  left: 570px;
+  object-fit: cover;
+  position: absolute;
+  top: 1076px;
+  width: 266px;
+}
+
+.page-a-propos .rseau-indpendant-as39421-7VZX3p {
+  background-color: transparent;
+  height: 302px;
+  left: 465px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 1312px;
+  width: 526px;
+}
+
+.page-a-propos .x3-7VZX3p {
+  background-color: transparent;
+  height: 256px;
+  left: 1136px;
+  object-fit: cover;
+  position: absolute;
+  top: 1076px;
+  width: 317px;
+}
+
+.page-a-propos .protection-anti-d-do-s-200-gbps-7VZX3p {
+  background-color: transparent;
+  height: 302px;
+  left: 1066px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 1312px;
+  width: 495px;
+}
+
+.page-a-propos .x4-7VZX3p {
+  background-color: transparent;
+  height: 255px;
+  left: 600px;
+  object-fit: cover;
+  position: absolute;
+  top: 1546px;
+  width: 287px;
+}
+
+.page-a-propos .serveurs-de-classe-datacenter-7VZX3p {
+  background-color: transparent;
+  height: 302px;
+  left: 507px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 1801px;
+  width: 426px;
+}
+
+.page-a-propos .x2-7VZX3p {
+  background-color: transparent;
+  height: 296px;
+  left: 1170px;
+  object-fit: cover;
+  position: absolute;
+  top: 1504px;
+  width: 350px;
+}
+
+.page-a-propos .support-ouvert-247365-7VZX3p {
+  background-color: transparent;
+  height: 302px;
+  left: 1059px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 1801px;
+  width: 545px;
+}
+
+.page-a-propos .x2021-sapinet-16-mentions-lgales-7VZX3p {
+  background-color: transparent;
+  cursor: pointer;
+  height: 302px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 2167px;
+  transition: all 0.2s ease;
+  width: 1091px;
+}
+
+.page-a-propos .x2021-sapinet-16-mentions-lgales-7VZX3p:hover {
+  color: #ABE188
+}

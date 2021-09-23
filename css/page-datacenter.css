@@ -1,0 +1,872 @@
+/* screen - page-datacenter */
+
+.page-datacenter {
+  background-color: var(--white);
+  height: 3397px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.page-datacenter .rectangle-11-CXSxaw {
+  background-color: var(--outer-space);
+  height: 3301px;
+  left: 0px;
+  position: fixed;
+  top: -48px;
+  width: 1920px;
+}
+
+.page-datacenter .groupe-dfilant-2-CXSxaw::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.page-datacenter .groupe-dfilant-2-CXSxaw {
+  background-color: transparent;
+  height: 276px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: scroll;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-datacenter .datacenter-olek-erstock-684x513-A7FbXB {
+  background-color: transparent;
+  height: 1557px;
+  left: -78px;
+  object-fit: cover;
+  position: absolute;
+  top: -141px;
+  width: 2076px;
+}
+
+.page-datacenter .rectangle-2-CXSxaw {
+  background-color: var(--black);
+  height: 276px;
+  left: 0px;
+  opacity: 0.57;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.page-datacenter .sans-titre-1-CXSxaw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 145px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 145px;
+}
+
+.page-datacenter .ellipse-2-CXSxaw {
+  background-color: transparent;
+  border-radius: 95px;
+  height: 190px;
+  left: 85px;
+  position: absolute;
+  top: 43px;
+  width: 190px;
+}
+
+.page-datacenter .sapinet-CXSxaw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 232px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: 396px;
+}
+
+.page-datacenter .sapinet-CXSxaw:hover {
+  color: #ABE188
+}
+
+.page-datacenter .ellipse-3-CXSxaw {
+  background-color: var(--jade);
+  border-radius: 49px;
+  cursor: pointer;
+  height: 98px;
+  left: 1531px;
+  position: absolute;
+  top: 12px;
+  width: 98px;
+}
+
+.page-datacenter .ellipse-4-CXSxaw {
+  background-color: var(--white);
+  border-radius: 15px;
+  cursor: pointer;
+  height: 30px;
+  left: 1565px;
+  position: absolute;
+  top: 27px;
+  width: 30px;
+}
+
+.page-datacenter .rectangle-4-CXSxaw {
+  background-color: var(--white);
+  border-radius: 8px;
+  cursor: pointer;
+  height: 27px;
+  left: 1558px;
+  position: absolute;
+  top: 67px;
+  width: 45px;
+}
+
+.page-datacenter .espace-client-CXSxaw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1640px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  transition: all 0.2s ease;
+  width: 218px;
+}
+
+.page-datacenter .espace-client-CXSxaw:hover {
+  color: #ABE188
+}
+
+.page-datacenter .ligne-1-CXSxaw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 4px;
+  left: 1624px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 237px;
+}
+
+.page-datacenter .ligne-3-CXSxaw {
+  background-color: transparent;
+  height: 4px;
+  left: 988px;
+  object-fit: cover;
+  position: absolute;
+  top: 176px;
+  width: 204px;
+}
+
+.page-datacenter .rectangle-12-CXSxaw {
+  background-color: var(--white);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 790px;
+  left: 267px;
+  pointer-events: auto;
+  position: absolute;
+  top: 1273px;
+  transition: all 0.2s ease;
+  width: 1444px;
+}
+
+.page-datacenter .rectangle-12-CXSxaw:hover {
+  transform: translate(0, -5px);box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+
+.page-datacenter .rectangle-14-CXSxaw {
+  background-color: var(--white-lilac);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 637px;
+  left: -37px;
+  position: absolute;
+  top: 2323px;
+  width: 2092px;
+}
+
+.page-datacenter .rectangle-18-CXSxaw {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 330px;
+  left: 85px;
+  pointer-events: auto;
+  position: absolute;
+  top: 679px;
+  transition: all 0.2s ease;
+  width: 518px;
+}
+
+.page-datacenter .rectangle-18-CXSxaw:hover {
+  transform: translate(-5px, 0);
+}
+
+.page-datacenter .rectangle-19-CXSxaw {
+  background-color: var(--white);
+  border-radius: 45px;
+  height: 283px;
+  left: 698px;
+  position: absolute;
+  top: 679px;
+  width: 518px;
+}
+
+.page-datacenter .rectangle-21-CXSxaw {
+  background-color: var(--pickled-bluewood);
+  border-radius: 7px;
+  height: 52px;
+  left: 135px;
+  pointer-events: auto;
+  position: absolute;
+  top: 716px;
+  transition: all 0.2s ease;
+  width: 230px;
+}
+
+.page-datacenter .rectangle-21-CXSxaw:hover {
+  transform: scale(1.1);
+}
+
+.page-datacenter .serveurs-ddis-CXSxaw {
+  background-color: transparent;
+  height: auto;
+  left: 163px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 729px;
+  transition: all 0.2s ease;
+  width: 217px;
+}
+
+.page-datacenter .serveurs-ddis-CXSxaw:hover {
+  transform: scale(1.1);
+}
+
+.page-datacenter .rectangle-22-CXSxaw {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 330px;
+  left: 698px;
+  pointer-events: auto;
+  position: absolute;
+  top: 679px;
+  transition: all 0.2s ease;
+  width: 518px;
+}
+
+.page-datacenter .rectangle-22-CXSxaw:hover {
+  transform: translate(0, -5px);
+}
+
+.page-datacenter .rectangle-23-CXSxaw {
+  background-color: var(--niagara);
+  border-radius: 9px;
+  height: 52px;
+  left: 748px;
+  pointer-events: auto;
+  position: absolute;
+  top: 716px;
+  transition: all 0.2s ease;
+  width: 149px;
+}
+
+.page-datacenter .rectangle-23-CXSxaw:hover {
+  transform: scale(1.1);
+}
+
+.page-datacenter .housing-CXSxaw {
+  background-color: transparent;
+  height: auto;
+  left: 776px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 728px;
+  transition: all 0.2s ease;
+  width: 191px;
+}
+
+.page-datacenter .housing-CXSxaw:hover {
+  transform: scale(1.1);
+}
+
+.page-datacenter .rectangle-24-CXSxaw {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 330px;
+  left: 1311px;
+  pointer-events: auto;
+  position: absolute;
+  top: 679px;
+  transition: all 0.2s ease;
+  width: 518px;
+}
+
+.page-datacenter .rectangle-24-CXSxaw:hover {
+  transform: translate(5px, 0);
+}
+
+.page-datacenter .rectangle-25-CXSxaw {
+  background-color: var(--jade);
+  border-radius: 11px;
+  height: 52px;
+  left: 1361px;
+  pointer-events: auto;
+  position: absolute;
+  top: 716px;
+  transition: all 0.2s ease;
+  width: 139px;
+}
+
+.page-datacenter .rectangle-25-CXSxaw:hover {
+  transform: scale(1.1);
+}
+
+.page-datacenter .transit-ip-CXSxaw {
+  background-color: transparent;
+  height: auto;
+  left: 1374px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 728px;
+  transition: all 0.2s ease;
+  width: 239px;
+}
+
+.page-datacenter .transit-ip-CXSxaw:hover {
+  transform: scale(1.1);
+}
+
+.page-datacenter .la-solution-ida-voir-nos-offres-CXSxaw {
+  background-color: transparent;
+  height: 302px;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 782px;
+  width: 535px;
+}
+
+.page-datacenter .span0-S6x844 {
+}
+
+.page-datacenter .span1-S6x844 {
+}
+
+.page-datacenter .span2-S6x844 {
+}
+
+.page-datacenter .hbergement-de-v-voir-nos-offres-CXSxaw {
+  background-color: transparent;
+  height: 302px;
+  left: 723px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 782px;
+  width: 535px;
+}
+
+.page-datacenter .span0-OgaY66 {
+}
+
+.page-datacenter .span1-OgaY66 {
+}
+
+.page-datacenter .span2-OgaY66 {
+}
+
+.page-datacenter .besoin-de-trans-ntt-disponibles-CXSxaw {
+  background-color: transparent;
+  height: 302px;
+  left: 1336px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 782px;
+  width: 535px;
+}
+
+.page-datacenter .span0-2rZqj1 {
+}
+
+.page-datacenter .span1-2rZqj1 {
+}
+
+.page-datacenter .span2-2rZqj1 {
+}
+
+.page-datacenter .rectangle-26-CXSxaw {
+  background-color: var(--pickled-bluewood);
+  height: 156px;
+  left: 0px;
+  position: absolute;
+  top: 3243px;
+  width: 1920px;
+}
+
+.page-datacenter .x2021-sapinet-16-mentions-lgales-CXSxaw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 302px;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: left;
+  top: 3271px;
+  transition: all 0.2s ease;
+  width: 1091px;
+}
+
+.page-datacenter .x2021-sapinet-16-mentions-lgales-CXSxaw:hover {
+  color: #ABE188
+}
+
+.page-datacenter .facebook-CXSxaw {
+  background-color: transparent;
+  height: 52px;
+  left: 1485px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 3291px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.page-datacenter .facebook-CXSxaw:hover {
+  background-color: #ABE188
+}
+
+.page-datacenter .twitter-CXSxaw {
+  background-color: transparent;
+  height: 52px;
+  left: 1583px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 3291px;
+  transition: all 0.2s ease;
+  width: 53px;
+}
+
+.page-datacenter .twitter-CXSxaw:hover {
+  background-color: #ABE188
+}
+
+.page-datacenter .linkedin-CXSxaw {
+  background-color: transparent;
+  height: 52px;
+  left: 1682px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 3291px;
+  transition: all 0.2s ease;
+  width: 52px;
+}
+
+.page-datacenter .linkedin-CXSxaw:hover {
+  background-color: #ABE188
+}
+
+.page-datacenter .discorde-CXSxaw {
+  background-color: transparent;
+  height: 57px;
+  left: 1780px;
+  object-fit: cover;
+  pointer-events: auto;
+  position: absolute;
+  top: 3294px;
+  transition: all 0.2s ease;
+  width: 57px;
+}
+
+.page-datacenter .discorde-CXSxaw:hover {
+  background-color: #ABE188
+}
+
+.page-datacenter .rectangle-28-CXSxaw {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1898px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.page-datacenter .rectangle-29-CXSxaw {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1875px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.page-datacenter .univers-datacenter-CXSxaw {
+  background-color: transparent;
+  height: auto;
+  left: 701px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 386px;
+  width: 601px;
+}
+
+.page-datacenter .span0-oeDxkQ {
+}
+
+.page-datacenter .span1-oeDxkQ {
+}
+
+.page-datacenter .span2-oeDxkQ {
+}
+
+.page-datacenter .trac-1-CXSxaw {
+  background-color: transparent;
+  height: 4px;
+  left: 960px;
+  object-fit: cover;
+  position: absolute;
+  top: 455px;
+  width: 303px;
+}
+
+.page-datacenter .choisissez-la-s-pte-vos-besoins-CXSxaw {
+  background-color: transparent;
+  height: auto;
+  left: 604px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 484px;
+  width: 827px;
+}
+
+.page-datacenter .span0-PONtHz {
+}
+
+.page-datacenter .span1-PONtHz {
+}
+
+.page-datacenter .span2-PONtHz {
+}
+
+.page-datacenter .ligne-14-CXSxaw {
+  background-color: transparent;
+  height: 4px;
+  left: 784px;
+  object-fit: cover;
+  position: absolute;
+  top: 541px;
+  width: 165px;
+}
+
+.page-datacenter .hj-CXSxaw {
+  background-color: transparent;
+  border-radius: 27px;
+  height: 610px;
+  left: 1043px;
+  object-fit: cover;
+  position: absolute;
+  top: 1360px;
+  width: 614px;
+}
+
+.page-datacenter .fr-CXSxaw {
+  background-color: transparent;
+  height: 56px;
+  left: 394px;
+  object-fit: cover;
+  position: absolute;
+  top: 1418px;
+  width: 70px;
+}
+
+.page-datacenter .serveurs-ddis-NMSGox {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1371px;
+  width: 302px;
+}
+
+.page-datacenter .location-de-ser-ques-ssd-ou-hdd-CXSxaw {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 1492px;
+  width: 555px;
+}
+
+.page-datacenter .ge-CXSxaw {
+  background-color: transparent;
+  height: 53px;
+  left: 394px;
+  object-fit: cover;
+  position: absolute;
+  top: 1602px;
+  width: 60px;
+}
+
+.page-datacenter .housing-NMSGox {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1552px;
+  width: 302px;
+}
+
+.page-datacenter .vos-serveurs-en-do-s-en-option-CXSxaw {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 1674px;
+  width: 555px;
+}
+
+.page-datacenter .transit-ip-NMSGox {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1749px;
+  width: 382px;
+}
+
+.page-datacenter .profitez-de-nos-tir-de-100-mbps-CXSxaw {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 1866px;
+  width: 555px;
+}
+
+.page-datacenter .aucune-offre-ne-ond-vos-besoins-CXSxaw {
+  background-color: transparent;
+  height: 302px;
+  left: 553px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 2385px;
+  width: 1106px;
+}
+
+.page-datacenter .span0-LAnmYM {
+}
+
+.page-datacenter .span1-LAnmYM {
+}
+
+.page-datacenter .span2-LAnmYM {
+}
+
+.page-datacenter .nous-nous-effor-on-personnalise-CXSxaw {
+  background-color: transparent;
+  height: 302px;
+  left: 412px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 2510px;
+  width: 1309px;
+}
+
+.page-datacenter .ligne-15-CXSxaw {
+  background-color: transparent;
+  height: 4px;
+  left: 1155px;
+  object-fit: cover;
+  position: absolute;
+  top: 2451px;
+  width: 284px;
+}
+
+.page-datacenter .rectangle-3-CXSxaw {
+  background-color: var(--jade);
+  border-radius: 22px;
+  box-shadow: 5px 3px 0px #00000029;
+  cursor: pointer;
+  height: 119px;
+  left: 726px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2749px;
+  transition: all 0.2s ease;
+  width: 526px;
+}
+
+.page-datacenter .rectangle-3-CXSxaw:hover {
+  transform: scale(1.1);
+}
+
+.page-datacenter .nous-contacter-CXSxaw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 762px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 2775px;
+  transition: all 0.2s ease;
+  width: 469px;
+}
+
+.page-datacenter .nous-contacter-CXSxaw:hover {
+  transform: scale(1.1);
+}
+
+.page-datacenter .re-CXSxaw {
+  background-color: transparent;
+  height: 52px;
+  left: 404px;
+  object-fit: cover;
+  position: absolute;
+  top: 1418px;
+  width: 50px;
+}
+
+.page-datacenter .bt-CXSxaw {
+  background-color: transparent;
+  height: 57px;
+  left: 400px;
+  object-fit: cover;
+  position: absolute;
+  top: 1793px;
+  width: 49px;
+}
+
+.page-datacenter .web-CXSxaw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 608px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 223px;
+}
+
+.page-datacenter .web-CXSxaw:hover {
+  color: #ABE188
+}
+
+.page-datacenter .vps-CXSxaw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 783px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 189px;
+}
+
+.page-datacenter .vps-CXSxaw:hover {
+  color: #ABE188
+}
+
+.page-datacenter .datacenter-CXSxaw {
+  background-color: transparent;
+  height: auto;
+  left: 977px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 227px;
+}
+
+.page-datacenter .datacenter-CXSxaw:hover {
+  color: #ABE188
+}
+
+.page-datacenter .a-propos-CXSxaw {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1235px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  transition: all 0.2s ease;
+  width: 227px;
+}
+
+.page-datacenter .a-propos-CXSxaw:hover {
+  color: #ABE188
+}
